@@ -1,0 +1,14 @@
+.env
+node_modules/
+dist/
+build/
+.DS_Store
+*.log
+*.env
+server/node_modules/
+server/dist/
+server/build/
+server/.DS_Store
+server/*.log
+server/.env
+node_modules
