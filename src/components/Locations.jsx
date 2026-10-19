@@ -18,7 +18,9 @@ export default function Locations() {
                 <br />
                 Freiberufliche Hebamme
                 <br />
-                Peine
+                Eichenkamp 13
+                <br />
+                31249 Hohenhameln
                 <br />
                 Niedersachsen
                 <br />

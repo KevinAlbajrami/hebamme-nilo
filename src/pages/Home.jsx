@@ -40,7 +40,9 @@ export default function Home() {
         telephone: '0176 20998220',
         address: {
             '@type': 'PostalAddress',
-            addressLocality: 'Peine',
+            streetAddress: 'Eichenkamp 13',
+            postalCode: '31249',
+            addressLocality: 'Hohenhameln',
             addressRegion: 'Niedersachsen',
             addressCountry: 'DE'
         },

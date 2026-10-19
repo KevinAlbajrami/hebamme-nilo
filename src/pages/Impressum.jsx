@@ -25,7 +25,9 @@ export default function Impressum(){
         <br />
         Freiberufliche Hebamme
         <br />
-        Peine
+        Eichenkamp 13
+        <br />
+        31249 Hohenhameln
         <br />
         Niedersachsen
         <br />
@@ -83,7 +85,9 @@ export default function Impressum(){
       <Typography paragraph>
         Niloofar Nasrollah
         <br />
-        Peine
+        Eichenkamp 13
+        <br />
+        31249 Hohenhameln
         <br />
         E-Mail: Hebamme.niloofarnasrollah@gmail.com
         <br />
@@ -143,7 +147,9 @@ export default function Impressum(){
       <Typography paragraph>
         Niloofar Nasrollah
         <br />
-        Peine
+        Eichenkamp 13
+        <br />
+        31249 Hohenhameln
         <br />
         E-Mail: Hebamme.niloofarnasrollah@gmail.com
       </Typography>
