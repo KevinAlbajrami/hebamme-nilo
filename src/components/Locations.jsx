@@ -6,20 +6,8 @@ import ListItem from '@mui/material/ListItem'
 export default function Locations() {
     return (
         <div>
-            <Typography variant="h4" component="h2" gutterBottom>Einsatzgebiet & Adresse</Typography>
-
-            <Typography paragraph sx={{fontSize:"1.2rem"}}>
-                Meine Betreuung erfolgt durch Hausbesuche in Peine und Umgebung sowie nach Absprache in der Region Hildesheim. Bitte frage rechtzeitig an.
-            </Typography>
-
             <Typography variant="h6" sx={{ mt: 2 }}>Anschrift</Typography>
             <Typography paragraph sx={{fontSize:"1.2rem"}}>
-                Niloofar Nasrollah
-                <br />
-                Freiberufliche Hebamme
-                <br />
-                Eichenkamp 13
-                <br />
                 31249 Hohenhameln
                 <br />
                 Niedersachsen

@@ -23,7 +23,7 @@ export default function Header() {
     const links = [
         { label: 'Über mich', href: loc.pathname === '/' ? '#about' : '/#about' },
         { label: 'Leistungen', href: loc.pathname === '/' ? '#leistungen' : '/#leistungen' },
-        { label: 'Einsatzgebiet', href: loc.pathname === '/' ? '#locations' : '/#locations' },
+        { label: 'Anschrift', href: loc.pathname === '/' ? '#locations' : '/#locations' },
         { label: 'Kontakt', href: loc.pathname === '/' ? '#contact' : '/#contact' },
         { label: 'Impressum', href: '/impressum' }
     ]
