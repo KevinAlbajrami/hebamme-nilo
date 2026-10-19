@@ -32,7 +32,7 @@ export default function Home() {
         return () => window.removeEventListener('hashchange', handleHash)
     }, [])
 
-    const siteUrl = 'https://example.com' // TODO: replace with real site URL
+    const siteUrl = 'https://hebamme-niloofar-nasrollah.de'
     const ld = {
         '@context': 'https://schema.org',
         '@type': 'LocalBusiness',

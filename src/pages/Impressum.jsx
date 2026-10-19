@@ -4,7 +4,7 @@ import Typography from '@mui/material/Typography'
 import Divider from '@mui/material/Divider'
 import { Helmet } from 'react-helmet-async'
 
-const siteUrl = 'https://example.com' // TODO: replace with real site URL
+const siteUrl = 'https://hebamme-niloofar-nasrollah.de'
 
 export default function Impressum(){
   return (
